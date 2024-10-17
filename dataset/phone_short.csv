@@ -1,0 +1,16 @@
+﻿1,2,3,y
+<50,no,no,low
+>50,no,yes,high
+>50,yes,yes,high
+>50,yes,no,low
+>50,no,no,low
+>50,yes,yes,high
+>50,no,no,high
+>50,yes,no,low
+>50,no,yes,high
+>50,yes,no,low
+>50,yes,no,low
+<50,yes,no,high
+<50,yes,no,high
+>50,yes,no,high
+<50,yes,yes,high
