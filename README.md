@@ -11,12 +11,12 @@
 ```bash
 sudo apt update
 sudo apt install default-jdk
-java -version (Verify)
+java -version 
 ```
 2. Install Maven
 ```bash
 sudo apt install maven
-mvn -version (Verify)
+mvn -version 
 ```
 3. Download this repository
 4. Choose a dataset by modifying `run.sh` file
