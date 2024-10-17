@@ -21,7 +21,7 @@ mvn -version (Verify)
 3. Download this repository
 4. Choose a dataset by modifying `run.sh` file
 ```bash
- --files ./YOUR_DATASET.csv \
+ --files ./dataset/YOUR_DATASET.csv \
 ```
 3. Navigate to the directory where the `.sh` file is located, and Run this command
 ```bash
