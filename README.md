@@ -1,4 +1,4 @@
-## Pyro Setup Instructions
+## Pyro Runner Setup Instructions
 
 ### Resources:
 - **Pyro source code**: [https://github.com/HPI-Information-Systems/pyro](https://github.com/HPI-Information-Systems/pyro)
